@@ -74,12 +74,10 @@ Installation
 
     Clone the repository:
 
-git clone https://github.com/yourusername/real-estate-ai-tool.git
-cd real-estate-ai-tool
+
 
 Install dependencies:
 
-pip install -r requirements.txt
 
 Run the Streamlit app:
 
